@@ -2,7 +2,7 @@
 #include <string.h.>
 using namespace std;
 void proverka(bool,int,int);
-bool proverka(int,int);
+bool vivod(int,int);
 char st[256];
 int main()
 {
